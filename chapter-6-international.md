@@ -166,3 +166,9 @@ service.interceptors.request.use(
   }
 )
 ```
+
+
+## vscode 插件  i18n-ally 安装
+
+
+注意 在src/i18n/index.js给语言包加层级，会导致页面无法翻译
